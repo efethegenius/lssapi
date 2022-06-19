@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fd07de16.css",
+    "main.js": "/static/js/main.1fa80b61.js",
+    "static/js/787.f0f7b807.chunk.js": "/static/js/787.f0f7b807.chunk.js",
+    "static/media/pexels-anna-shvets-5029919.jpg": "/static/media/pexels-anna-shvets-5029919.d4e42983968bb0c41168.jpg",
+    "static/media/pexels-ron-lach-10363549.jpg": "/static/media/pexels-ron-lach-10363549.a70311bd1d7b0c7cdb8b.jpg",
+    "static/media/pexels-cottonbro-6565756.jpg": "/static/media/pexels-cottonbro-6565756.a5e66ad6070c3176531a.jpg",
+    "static/media/pexels-joshua-mcknight-1139315.jpg": "/static/media/pexels-joshua-mcknight-1139315.519320935d22a919f21f.jpg",
+    "static/media/happy children landing.png": "/static/media/happy children landing.eb6af613907d37919891.png",
+    "static/media/logo.png": "/static/media/logo.1e6e69aabe3eb99b20f9.png",
+    "static/media/hero-wave.png": "/static/media/hero-wave.d92fe523c936b44ed82c.png",
+    "index.html": "/index.html",
+    "static/media/wave.svg": "/static/media/wave.38f8435226d18ebe4927382107887c90.svg",
+    "main.fd07de16.css.map": "/static/css/main.fd07de16.css.map",
+    "main.1fa80b61.js.map": "/static/js/main.1fa80b61.js.map",
+    "787.f0f7b807.chunk.js.map": "/static/js/787.f0f7b807.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd07de16.css",
+    "static/js/main.1fa80b61.js"
+  ]
+}
